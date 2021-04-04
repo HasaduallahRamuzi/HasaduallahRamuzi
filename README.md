@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @HasaduallahRamuzi, im in my penultimate year of study at University of Essex studying Computer Science. 
 - I enjoy using c++, Java and Python.
-- My next project will be something probably with c++ or python. 
+- My next project will probably be something to do with Data Science. 
